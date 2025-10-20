@@ -10,12 +10,9 @@ Portifolio
 ⦁	Git / GitHub / GitHub Pages
 ⦁	LinkedIn
 
-🛠️ Ferramentas Utilizadas
-⦁	Git / GitHub / GitHub Pages
-⦁	LinkedIn
 
-🧑‍💻 Autor
-Seu Nome Aqui  
+
+🧑‍💻 Aluno: João Gabriel Bontempo
 Estudante do Bootcamp I – 2025  
 GitHub: [seu-usuario ](https://github.com/joaogabriel44) 
 
