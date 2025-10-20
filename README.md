@@ -1,12 +1,12 @@
 Portifolio 
 
-🗂️ Estrutura Básica
+ Estrutura Básica
 ⦁	Projetos Acadêmicos
 ⦁	Projetos Pessoais
 ⦁	Documentação
 ⦁	README principal
 
-🛠️ Ferramentas Utilizadas
+ Ferramentas Utilizadas
 ⦁	Git / GitHub / GitHub Pages
 ⦁	LinkedIn
 
