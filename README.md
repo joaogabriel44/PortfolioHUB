@@ -10,6 +10,7 @@ Portifolio
 ⦁	Git / GitHub / GitHub Pages
 ⦁	LinkedIn
 
+Projeto Academico: codigo em c++ de uma calculadora 
 
 
 🧑‍💻 Aluno: João Gabriel Bontempo
